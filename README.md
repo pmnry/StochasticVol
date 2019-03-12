@@ -1,4 +1,4 @@
 # StochasticVol
 MonteCarlo Methods for Stochastic Volatility
 
-Extension of a course project for "MonteCarlo Simulations" course at ENSAE Paristech.
+Extension of a group course project for "MonteCarlo Simulations" course at ENSAE Paristech.
